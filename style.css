@@ -1,0 +1,10 @@
+.top-content {
+    margin-top: 4rem;
+}
+.image-full-bg {
+    height: 250px;
+    background-image: url("img/board-bricks-brickwork-concrete-269063.jpg");
+    background-position: center center;
+    background-size: cover;
+    margin-top: 3rem;
+}
