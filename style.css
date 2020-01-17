@@ -8,3 +8,9 @@
     background-size: cover;
     margin-top: 3rem;
 }
+.jumbotron {
+    background-image: url("img/brown-wooden-center-table-584399.jpg");
+    background-position: bottom center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
